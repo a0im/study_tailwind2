@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
+.gnb_list{
+    @apply block mx-auto text-lg font-semibold text-center bg-white border-t border-yellow-800 w-180 h-11 leading-11;
+}
+.gnb_slide_menu{
+    @apply block mx-auto text-center w-180 h-11 leading-11 hover:bg-yellow-600 bg-white;
+}
 @tailwind utilities;

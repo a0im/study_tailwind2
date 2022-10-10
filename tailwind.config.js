@@ -4,19 +4,19 @@ module.exports = {
   theme: {
     extend: {
       width: {
-        "1000": "1000px",
-        "180": "180px",
-        "50": "12.5rem",
+        1000: "1000px",
+        180: "180px",
+        50: "12.5rem",
       },
       height: {
-        "200" : "200px"
+        200: "200px",
       },
-      lineHeight : {
-        "11": "2.75rem",
+      lineHeight: {
+        11: "2.75rem",
       },
-      fontSize : {
-        "none" : "0"
-      }
-   },
-ns: [],
+      fontSize: {
+        none: "0",
+      },
+    },
+  },
 };
